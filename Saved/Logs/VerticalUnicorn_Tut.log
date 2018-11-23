@@ -732,3 +732,29 @@ LogInit: Object subsystem initialized
 [2018.11.22-23.39.41:785][931]SourceControl: Your branch is ahead of 'origin/Bos_Branch' by 2 commits.
 [2018.11.22-23.39.41:785][931]SourceControl:   (use "git push" to publish your local commits)
 [2018.11.22-23.39.41:785][931]SourceControl: nothing to commit, working tree clean
+[2018.11.23-00.11.55:135][274]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.11.23-00.11.56:785][274]EditorErrors: Warning: No assets to check in!
+[2018.11.23-00.13.51:498][799]LogSlate: Took 0.291192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.23-00.14.22:832][978]LogSavePackage: Save=195.15ms
+[2018.11.23-00.14.22:832][978]LogSavePackage: Moving '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Saved/This_is_another_level_test5713F5B541C40235D5062F867ACF3A10.tmp' to '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/This_is_another_level_test.umap'
+[2018.11.23-00.14.22:843][978]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/This_is_another_level_test.umap
+[2018.11.23-00.14.23:159][978]LogFileHelpers: Saving map 'This_is_another_level_test' took 0.749
+[2018.11.23-00.14.31:383][304]LogSavePackage: Save=1145.99ms
+[2018.11.23-00.14.31:383][304]LogSavePackage: Moving '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Saved/Something_to_test561332B24A379BFF24F9BB9E6B0E8BE4.tmp' to '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Something_to_test.uasset'
+[2018.11.23-00.14.31:385][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Something_to_test.uasset
+[2018.11.23-00.14.34:723][443]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.11.23-00.14.46:258][443]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.11.23-00.14.46:349][443]SourceControl: [master a7ffa7e] Seeing if new assets appear
+[2018.11.23-00.14.46:349][443]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.11.23-00.14.46:349][443]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Test_folder_Bo/Something_to_test.uasset
+[2018.11.23-00.14.46:349][443]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Test_folder_Bo/This_is_another_level_test.umap
+[2018.11.23-00.14.46:358][443]SourceControl: Commited [master a7ffa7e] Seeing if new assets appear.
+[2018.11.23-00.19.39:535][342]LogSavePackage: Save=301.28ms
+[2018.11.23-00.19.39:535][342]LogSavePackage: Moving '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Saved/Try_again_to_push_from_branch01477F2440F575BA3145B0965072C1B6.tmp' to '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Try_again_to_push_from_branch.uasset'
+[2018.11.23-00.19.39:540][342]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Try_again_to_push_from_branch.uasset
+[2018.11.23-00.19.44:373][509]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.11.23-00.20.10:569][509]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.11.23-00.20.10:662][509]SourceControl: [master 3eaf00a] This time, I made the branch on github. Ran into problems making the branch in the editor
+[2018.11.23-00.20.10:662][509]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.11.23-00.20.10:662][509]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Test_folder_Bo/Try_again_to_push_from_branch.uasset
+[2018.11.23-00.20.10:669][509]SourceControl: Commited [master 3eaf00a] This time, I made the branch on github. Ran into problems making the branch in the editor.
