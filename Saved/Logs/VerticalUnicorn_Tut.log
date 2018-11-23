@@ -758,3 +758,21 @@ LogInit: Object subsystem initialized
 [2018.11.23-00.20.10:662][509]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.11.23-00.20.10:662][509]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Test_folder_Bo/Try_again_to_push_from_branch.uasset
 [2018.11.23-00.20.10:669][509]SourceControl: Commited [master 3eaf00a] This time, I made the branch on github. Ran into problems making the branch in the editor.
+[2018.11.23-00.27.43:105][125]LogSavePackage: Save=26.18ms
+[2018.11.23-00.27.43:105][125]LogSavePackage: Moving '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Saved/Another_push854F98E545185048AAAF1E9BDFD31F85.tmp' to '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Another_push.uasset'
+[2018.11.23-00.27.43:110][125]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Another_push.uasset
+[2018.11.23-00.30.11:203][ 84]LogSavePackage: Save=14.89ms
+[2018.11.23-00.30.11:203][ 84]LogSavePackage: Moving '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Saved/Pushing_from_another_acct8F72AE3F4259BB273D568D8882A0194D.tmp' to '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Pushing_from_another_acct.uasset'
+[2018.11.23-00.30.11:208][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Pushing_from_another_acct.uasset
+[2018.11.23-00.32.08:498][875]LogSavePackage: Save=566.30ms
+[2018.11.23-00.32.08:498][875]LogSavePackage: Moving '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Saved/Character_blueprint_made_from_another_branch3153F9304F4B80360FE4B9B2622D8978.tmp' to '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Character_blueprint_made_from_another_branch.uasset'
+[2018.11.23-00.32.08:502][875]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Character_blueprint_made_from_another_branch.uasset
+[2018.11.23-00.34.53:594][791]LogSavePackage: Save=108.34ms
+[2018.11.23-00.34.53:594][791]LogSavePackage: Moving '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Saved/Master_push_to_update_branchFE34F6444FE9277A2D5A9A9AB6FA69C3.tmp' to '../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Master_push_to_update_branch.uasset'
+[2018.11.23-00.34.53:599][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bojil Ivanov/Documents/Unreal Projects/VerticalUnicorn_Tut/Content/2DSideScrollerBP/Test_folder_Bo/Master_push_to_update_branch.uasset
+[2018.11.23-00.34.58:550][ 17]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.11.23-00.35.08:500][ 17]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.11.23-00.35.08:592][ 17]SourceControl: [master 797c73c] Push onto master
+[2018.11.23-00.35.08:592][ 17]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.11.23-00.35.08:592][ 17]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Test_folder_Bo/Master_push_to_update_branch.uasset
+[2018.11.23-00.35.08:601][ 17]SourceControl: Commited [master 797c73c] Push onto master.
