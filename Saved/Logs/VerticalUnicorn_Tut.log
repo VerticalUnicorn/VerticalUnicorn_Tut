@@ -296,3 +296,4 @@ LogInit: Object subsystem initialized
 [2018.11.24-05.42.56:655][645]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Test_folder_sean/Test1.uasset
 [2018.11.24-05.42.56:655][645]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Test_folder_sean/Test2.umap
 [2018.11.24-05.42.56:662][645]SourceControl: Commited [master 4a820ea] Sean first commit.
+[2018.11.24-05.44.09:374][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
